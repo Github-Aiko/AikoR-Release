@@ -4,5 +4,5 @@
 
 - Link sử dụng : 
 ```
-bash <(curl -ls https://github.com/Github-Aiko/AikoR-Release/blob/install/install.sh)
+bash <(curl -ls https://github.com/Github-Aiko/AikoR-Release/raw/install/install.sh)
 ```
